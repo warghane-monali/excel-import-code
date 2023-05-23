@@ -1,3 +1,4 @@
+import * as XLSX from "xlsx";
   //excel sheet code
   const [sheetLoader, setSheetLoader] = useState(false);
 
